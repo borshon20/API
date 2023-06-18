@@ -1,0 +1,27 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+#nav{
+display: flex;
+padding: 15px;
+background-color:blue;
+justify-content:space-between;
+
+}
+#nav > div > a{
+text-decoration: none;
+margin: 4px;
+padding: 10px;
+color: white;
+
+}
+
+h1{
+text-align: center;
+}
+
+
